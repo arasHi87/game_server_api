@@ -1,0 +1,13 @@
+{
+    "PlayerDatas": [{
+        "Name": "test1",
+        "password": "$2y$10$fV627QfMlKzLZaHVVm0AwOrYi90KeKNqKBVdQ4TwOTYYDk.alkq7K",
+        "level": 1,
+        "exp": 0,
+        "cash": 0,
+        "collection": [true, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false],
+        "HighScore": [],
+        "CatcherSet": 0,
+        "BallSet": 4
+    }]
+}
